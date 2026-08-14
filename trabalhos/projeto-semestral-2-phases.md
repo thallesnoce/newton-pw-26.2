@@ -498,24 +498,3 @@ Categorias:
 | **25/11** | **Entrega da Fase 2** — 20 pts da AV2 (23h59) |
 | 27/11 | Prova AV + **Demo Day**: pitch de 5 min + **arguição técnica de 1 min** (valendo) |
 
----
-
-## Histórico de versões
-
-- **v1** — conceito inicial: temas, cronograma, competição, rubrica.
-- **v2** — requisitos de entrega (GitHub, README, contribuição de ambos) e observação sobre
-  Pull Request / `Co-authored-by`.
-- **v3** — projeto passa a ser **individual**: “contribuição de ambos” vira histórico de commits
-  incremental do próprio aluno; bloco de Pull Request removido; Demo Day ajustado ao dobro de
-  apresentações.
-- **v4** — **cada aluno define o seu próprio tema**, mediante proposta em `docs/proposta.md`
-  aprovada pelo professor (banco de temas vira fallback); criado o **piso técnico** comum às duas
-  fases, que substitui o tema único como base de comparação; incluídas as **regras objetivas de
-  desclassificação** (D1–D6: entrega fora do Git, repositório inacessível, *dump commit* com
-  limites numéricos, histórico forjado, autoria e entrega vazia), a tabela de **penalidades**
-  (P1–P5), a seção de **autoverificação** com comandos `git`, a **rubrica com pesos definidos** e
-  as regras de **exceções e recursos**. Criada a **arguição técnica** (seção 6.1): uma pergunta
-  sobre o código do próprio aluno no último minuto do pitch do Demo Day, com banco de perguntas
-  por tipo, níveis A/B/C, devido processo em arguição individual e ensaio formativo na devolutiva
-  da Fase 1. O pitch é de 5 min (slot de 6min30 por aluno). Política de
-  **uso de IA** explicitada (permitido, com declaração obrigatória no README).
